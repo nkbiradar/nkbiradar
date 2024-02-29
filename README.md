@@ -1,3 +1,2 @@
-hello i m nayan kumar
+hello i am nayan kumar
 <br>
-whats up!
