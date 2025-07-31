@@ -13,7 +13,9 @@
 - 🤝 I’m always open to **collaborations, networking, and exciting conversations** in tech.
 - 💬 Ask me about **React, Node.js, Python, AI-powered apps, APIs, and UX/UI**
 - 🌱 Currently exploring **Next.js, Docker, and advanced REST APIs**
-- 📫 Reach me at **nkbiradar@example.com** *(replace with your real email)*
+- 📫 Reach me at **nayankuma1234@gmail.com**
+- 💼 My Portfolio: [personal-portfolio-iota-swart.vercel.app](https://personal-portfolio-iota-swart.vercel.app)
+- 📱 WhatsApp: +91 63639 76632
 
 ---
 
@@ -25,8 +27,11 @@
 ---
 
 ### 🚀 Projects I'm Proud Of
-- 💻 [AI-powered Crime Prediction Web App](https://github.com/nkbiradar/crime-prediction)
+- 🔐 [Multi-Factor Authentication Web App](https://github.com/nkbiradar/multifactor-authentication)  
+  *(Secure login using OTP, Email Verification, and Auth Layers)*
+
 - 💬 [Real-time Chat App (Socket.io + Node.js)](https://github.com/nkbiradar/chat-app)
+
 - 🌐 [Cyberpunk Portfolio Website](https://github.com/nkbiradar/portfolio)
 
 ---
@@ -41,8 +46,15 @@
 
 ### 🌍 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/nkbiradar/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nkbiradar@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nayan-kumar-biradar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nayankuma1234@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://personal-portfolio-iota-swart.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
-> 🚀 *“Technology is best when it connects people.” – Your code is your identity – make it meaningful.*  
+> 🚀 *“Technology is best when it connects people.” – Your code is your identity – make it meaningful.*
