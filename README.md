@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Hey+I'm+Nayan+Kumar+Biradar;Full+Stack+Developer+⚡+AI+Explorer;Supabase+Contributor+🚀;Code.+Create.+Conquer.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=0FF0FC&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Nayan+Kumar+Biradar+👋;Full-Stack+Developer+⚡+AI+Architect;Building+Futuristic+Web+Experiences+🚀;Dream.+Design.+Disrupt.">
 </h1>
 
 <p align="center">
