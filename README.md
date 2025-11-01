@@ -28,7 +28,7 @@
 
 ## 🧩 Supabase & Open Source Contributions
 <p align="center">
-  <a href="https://github.com/supabase" target="_blank">
+  <a href="https://github.com/supabase" target="https://github.com/nkbiradar/supabase">
     <img src="https://img.shields.io/badge/Supabase-Open%20Source%20Contributor-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   </a>
 </p>
