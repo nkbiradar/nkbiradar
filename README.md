@@ -17,8 +17,11 @@
   <a href="https://www.firstoffer.online/">
     <img src="https://img.shields.io/badge/🚀%20Founder-FirstOffer-0066FF?style=for-the-badge" />
   </a>
+
   <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white" />
+
   <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-blueviolet?style=for-the-badge" />
+
   <img src="https://img.shields.io/badge/Full--Stack-Developer-orange?style=for-the-badge" />
 </p>
 
