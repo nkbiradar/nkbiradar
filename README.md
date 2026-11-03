@@ -1,9 +1,10 @@
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=0FF0FC&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Nayan+Kumar+Biradar+%F0%9F%91%8B;Founder+%40+FirstOffer+%F0%9F%9A%80;Data+%26+Business+Analyst+%7C+AI%2FML+Enthusiast;Full-Stack+Developer+%7C+Product+Builder;Building+Products+That+Create+Real+Impact" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
 
 <p align="center">
@@ -62,7 +63,7 @@ I'm **Nayan Kumar Biradar**, an **IIIT Dharwad alumnus, developer and founder** 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nkbiradar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=nkbiradar&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Stats"
   />
@@ -88,64 +89,44 @@ I'm **Nayan Kumar Biradar**, an **IIIT Dharwad alumnus, developer and founder** 
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nkbiradar&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="Contribution Activity Graph"
-  />
-</p>
-
----
-
 # 🛠️ Tech Stack
 
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql,html,css" />
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
 </p>
 
 ### AI / Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI and ML Technologies" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-<p>
-  <code>Machine Learning</code> •
-  <code>Deep Learning</code> •
-  <code>Computer Vision</code> •
-  <code>LLMs</code> •
-  <code>RAG</code> •
-  <code>Generative AI</code> •
-  <code>AI Agents</code>
-</p>
+`Machine Learning` • `Deep Learning` • `Computer Vision` • `LLMs` • `RAG` • `Generative AI` • `AI Agents`
 
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase" />
 </p>
 
 ### Cloud & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,render,docker,aws,gcp,git,github,vscode,postman,figma" alt="Cloud and Developer Tools" />
+  <img src="https://skillicons.dev/icons?i=vercel,render,docker,aws,gcp,git,github,vscode,postman,figma" />
 </p>
 
 ---
@@ -172,3 +153,14 @@ DATA
 ├── 📊 Data Analytics
 ├── 💼 Business Analytics
 └── 🔧 Data Engineering
+```
+
+---
+
+<p align="center">
+  <b>Building products. Solving problems. Creating impact. 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nkbiradar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
