@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding animation" />
 </p>
 
 <p align="center">
@@ -20,13 +20,13 @@
 
 > **I don't just build software — I build products that solve real problems.**
 
-I'm **Nayan Kumar Biradar**, an **IIIT Dharwad alumnus, developer and founder** passionate about **AI, data, software and startups**.
+I'm **Nayan Kumar Biradar**, an **IIIT Dharwad alumnus, developer and founder** passionate about AI, data, software and startups.
 
-- 🚀 Founder of **[FirstOffer](https://www.firstoffer.online/)**
-- 📊 Interested in **Data Analytics & Business Analytics**
-- 🤖 Building with **AI/ML, LLMs, RAG & AI Agents**
+- 🚀 Founder of [FirstOffer](https://www.firstoffer.online/)
+- 📊 Interested in Data Analytics & Business Analytics
+- 🤖 Building with AI/ML, LLMs, RAG & AI Agents
 - 💻 Full-Stack Developer
-- 🧠 Interested in **AI, SaaS, startups and data products**
+- 🧠 Interested in AI, SaaS, startups and data products
 - 🛠️ Idea → Build → Deploy → Iterate
 
 ---
@@ -39,7 +39,7 @@ I'm **Nayan Kumar Biradar**, an **IIIT Dharwad alumnus, developer and founder** 
   </a>
 </p>
 
-**FirstOffer** helps students and freshers discover **jobs, internships and off-campus opportunities** in one place.
+**FirstOffer** helps students and freshers discover jobs, internships and off-campus opportunities in one place.
 
 ### ✨ Features
 
@@ -61,14 +61,16 @@ I'm **Nayan Kumar Biradar**, an **IIIT Dharwad alumnus, developer and founder** 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api?username=nkbiradar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="180"
+    alt="GitHub Stats"
   />
-  
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkbiradar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="180"
+    alt="Top Languages"
   />
 </p>
 
@@ -80,6 +82,7 @@ I'm **Nayan Kumar Biradar**, an **IIIT Dharwad alumnus, developer and founder** 
   <img
     src="https://streak-stats.demolab.com?user=nkbiradar&theme=tokyonight&hide_border=true"
     width="700"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -91,6 +94,7 @@ I'm **Nayan Kumar Biradar**, an **IIIT Dharwad alumnus, developer and founder** 
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=nkbiradar&theme=tokyo-night&hide_border=true&area=true"
     width="100%"
+    alt="Contribution Activity Graph"
   />
 </p>
 
@@ -100,40 +104,48 @@ I'm **Nayan Kumar Biradar**, an **IIIT Dharwad alumnus, developer and founder** 
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql,html,css" alt="Languages" />
 </p>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="Frontend Technologies" />
 </p>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" alt="Backend Technologies" />
 </p>
 
 ### AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI and ML Technologies" />
 </p>
 
-`Machine Learning` • `Deep Learning` • `Computer Vision` • `LLMs` • `RAG` • `Generative AI` • `AI Agents`
+<p>
+  <code>Machine Learning</code> •
+  <code>Deep Learning</code> •
+  <code>Computer Vision</code> •
+  <code>LLMs</code> •
+  <code>RAG</code> •
+  <code>Generative AI</code> •
+  <code>AI Agents</code>
+</p>
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase" alt="Databases" />
 </p>
 
 ### Cloud & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,render,docker,aws,gcp,git,github,vscode,postman,figma" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,render,docker,aws,gcp,git,github,vscode,postman,figma" alt="Cloud and Developer Tools" />
 </p>
 
 ---
